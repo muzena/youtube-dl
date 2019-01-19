@@ -1,4 +1,4 @@
-youtube-dl (2018.11.07) bionic; urgency=emergency
+youtube-dl (2019.01.17) bionic; urgency=emergency
 
   * ACK NMU by Clint Adams. Thanks!
   * New upstream version 2018.09.10. Closes: #908461, #907722, #904619.
